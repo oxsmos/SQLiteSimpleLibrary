@@ -5,9 +5,9 @@ using System.Data.SQLite;
 using System.Data.Linq.Mapping;
 using System.Collections.Generic;
 
-namespace GeoData
+namespace SQLiteSimpleLibrary
 {
-  public class GeoCodes
+  public class SQLiteSL
   {
     public struct db
     {
